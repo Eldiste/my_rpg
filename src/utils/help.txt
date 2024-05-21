@@ -1,0 +1,77 @@
+RPG created in CSFML by Dorian, Lucas, Mateo, Bryan.
+
+Welcome to this guide for the RPG game where your mission is to kill as many monsters as possible and defeat the fearsome Master Bol.
+To play, you will need to know the basic controls.
+
+History:
+
+In the near future, Earth has been ravaged by an apocalypse caused by a nuclear reactor explosion.
+Governments have been destroyed and survivors struggle for survival in a chaotic world.
+
+You play as a Biker/Cyborg/Punk who has spent their life traveling through the wastelands to make a living.
+Your expertise in combat and survival tactics is unparalleled, making you a valuable asset to the different factions
+vying for control of the city.
+
+The city is a cyberpunk metropolis, where the streets are full of gangs.
+Gangs fight for control of resources while corporations seek to exploit survivors for their own gain.
+
+Your mission is to help a faction eliminate Master Bol.
+
+After defeating Master Bol, you are hailed as a hero and choose to join a faction that seeks to rebuild the city from its ruins.
+You realize that even in a post-apocalyptic world, there is hope for a better future in the search for the Crampter.
+
+Basic controls:
+
+Use the ZQSD keys to move your character in different directions.
+Click on the monsters you want to attack to kill them.
+Press F2 to save.
+
+The shop:
+
+The shop is where you can buy items to improve your character's skills.
+The available items in the shop are upgrades for your character's health, speed, attack, and defense.
+
+How to improve your skills:
+
+To improve a skill, you need to click on the corresponding item in the shop.
+The upgrade items can be purchased with the currency you earn by killing monsters and leveling up.
+You can improve each skill multiple times by purchasing multiple items.
+
+The items:
+
+Potion to restore 25 HP.
+Teleporter to go back to base.
+
+The upgrade items:
+
+Health upgrade items increase your character's health points.
+Speed upgrade items increase your character's movement speed.
+Attack upgrade items increase the damage your character deals to monsters.
+Defense upgrade items reduce the damage your character takes from monsters.
+
+Tips for improving your skills:
+
+Make sure to choose the items that best suit your playstyle.
+Try to balance the upgrades of your skills to make your character more versatile.
+Consider saving up currency to purchase the more expensive upgrade items to quickly improve your skills.
+By improving your skills through the shop, you will be better equipped to defend against monsters and
+be better prepared to defeat Master Bol.
+Remember to regularly make purchases at the shop to improve your character.
+
+Tips for killing monsters:
+
+Each monster has a different difficulty level, so choose your targets wisely to avoid dying.
+Killing monsters earns you coins.
+Your final quest is to defeat Master Bol. He is a very powerful opponent, so you must prepare carefully before facing him.
+
+Tips for defeating Master Bol:
+
+Make sure to have reached a high enough character level before attempting to attack him.
+Gather the best equipment you can find to improve your character's statistics.
+Use all the special skills and items at your disposal to enhance your attacking power.
+Study Master Bol's attack patterns and habits to anticipate his moves and counter them effectively.
+By following these tips, you should be well prepared to defeat Master Bol and complete your quest successfully.
+Remember that the key to success in this game is perseverance and practice, so don't
+get discouraged if you fail the first time.
+
+Good luck!

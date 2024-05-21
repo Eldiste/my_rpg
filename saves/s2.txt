@@ -1,0 +1,10 @@
+lvl: 1
+xp: 0
+coins: 0
+hp: 100
+def: 5
+atck: 5
+speed: 100
+potion: 0
+tp: 0
+price: 5
